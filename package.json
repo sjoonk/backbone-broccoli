@@ -1,0 +1,17 @@
+{
+  "name": "backbone-broccoli",
+  "version": "1.0.0",
+  "description": "Backbone.js demo with Broccoli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "broccoli": "^0.13.3",
+    "broccoli-concat": "0.0.12",
+    "broccoli-merge-trees": "^0.2.1",
+    "broccoli-sass": "^0.3.3"
+  }
+}
