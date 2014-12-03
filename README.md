@@ -1,4 +1,4 @@
-Building Backbone.js app with Broccoli as build tool
+A Backbone.js app skeleton with Broccoli as a build tool
 =====
 
 How to use:
@@ -10,4 +10,4 @@ How to use:
 
 (on production deployment)
 
-    $ broccoli build public
+    $ broccoli build dist
