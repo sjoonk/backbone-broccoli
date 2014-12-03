@@ -5,6 +5,7 @@ How to use:
 -----
 
     $ npm install
+    $ bower install
     $ broccoli serve
     $ open http://localhost:4200
 
